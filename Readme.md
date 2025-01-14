@@ -84,6 +84,12 @@ Now the bot will be able to dm you
 
 ---
 
+## 5. Start the bot
+
+### Steps:
+1. **Go into the bot directory**
+    - Run the bot by typing `python bot.py` and pressing enter
+
 ## Troubleshooting
 
 ---
