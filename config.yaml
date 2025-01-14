@@ -1,0 +1,9 @@
+bot_token: "<bot_token>"
+discord_user_id: "<user_id>"
+url_check_delay: 60
+urls_to_check:
+  - "https://berachain.com/airdrop"
+  - "https://berachain.com/checker"
+  - "https://airdrop.berachain.com"
+  - "https://checker.berachain.com"
+  - "https://checker.uat.berachain.com"
