@@ -80,7 +80,7 @@ Now you will see the bot in your friend list on discord
     - Click on "Add to my apps"
     - Authorize the application
 
-Now you will see the bot in your friend list on discord
+Now the bot will be able to dm you
 
 ---
 
