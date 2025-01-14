@@ -1,4 +1,4 @@
-(Created with the help of GPT, not motivated to type out manually)
+(README Created with the help of GPT, not motivated to type out manually)
 
 # Discord Bot Setup Guide
 
