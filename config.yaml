@@ -1,5 +1,6 @@
 bot_token: "<bot_token>"
-discord_user_id: "<user_id>"
+admin_id: "<user_id>"
+database_path: "data/bot_data.db"
 url_check_delay: 60
 urls_to_check:
   - "https://berachain.com/airdrop"
